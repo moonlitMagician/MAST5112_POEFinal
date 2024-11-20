@@ -1,0 +1,33 @@
+[
+    {
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/smoked-salmon-carpaccio-1931346.jpg?resize=768,574",
+        "name": "Smoked Salmon Carpaccio",
+        "description": "Thinly sliced smoked salmon, topped with red onion, capers and a lemon dressing.",
+        "course": "Starter",
+        "price": 65
+      },
+
+      {
+        "image": "https://www.billyparisi.com/wp-content/uploads/2019/01/chicken-cacciatore-1.jpg",
+        "name": "Chicken Cacciatore",
+        "description": "Breaded chicken breasts in a hearty, rustic stew. With vegitables and simmered in a tomato sauce rich with wine and herbs",
+        "course": "Main",
+        "price": 125
+      },
+
+      {
+        "image": "https://www.recipetineats.com/tachyon/2017/05/Lasagne-recipe-3-main-square.jpg?resize=500%2C500",
+        "name": "Beef Lasagna",
+        "description": "Layers of pasta, filled with a rich and tender ground beef, marinated in a herbal tomato sauce",
+        "course": "Main",
+        "price": 125
+      },
+
+      {
+        "image": "https://www.melskitchencafe.com/wp-content/uploads/2023/01/updated-lava-cakes7.jpg",
+        "name": "Chocolate Lava Cake",
+        "description": "A rich chocolate cake, with a molten chocolate center, served with a scoop of vanilla ice cream",
+        "course": "Dessert",
+        "price": 45
+      }
+]
